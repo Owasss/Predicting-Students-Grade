@@ -4,9 +4,7 @@
 # In[ ]:
 
 
-#20l2188 Muhammad Awais
-#20l2094 Akbar Khan
-#20l2133 Fatima Muneer
+# Muhammad Awais
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
